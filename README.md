@@ -87,9 +87,8 @@ Este projeto tem intuito de compor portifólio de Administração de Banco de Da
 |Procedures INSERT |[Clique aqui](/Scripts/Procedure_INSERT.sql)|
 |Procedures UPDATE   |[Clique aqui](/Scripts/Procedure_UPDATE.sql)|
 |Procedures DELETE   |[Clique aqui](/Scripts/Procedure_DELETE.sql)|
-|DumpFull      |[Clique aqui](/Dumps/DumpFull.sql)|
-|DumpDDL      |[Clique aqui](/Dumps/DunpDDL.sql)|
-|DumpOnlyData      |[Clique aqui](/Dumps/DumpOnlyData.sql)|
+|Dumps      |[Clique aqui](/Dumps)|
+
 
 <div align=center>
 
