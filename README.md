@@ -88,7 +88,6 @@ Este projeto tem intuito de compor portifólio de Administração de Banco de Da
 
 ## Contatos
 
-|  [![Linkedin](/img/icons8-linkedin-48.png)](https://br.linkedin.com/in/udanielarthur?trk=public_profile_browsemap)| [![Instagram](/img/icons8-instagram-48.png)](https://www.instagram.com/udanielarthur) |[![Email](/img/icons8-email-48.png)](udanielarthur@gmail.com) | 
-|-----------|-----------|-----------|-----------|-----------|
+|  [![Linkedin](/img/icons8-linkedin-48.png)](https://br.linkedin.com/in/udanielarthur?trk=public_profile_browsemap)| [![Instagram](/img/icons8-instagram-48.png)](https://www.instagram.com/udanielarthur) |[![Email](/img/icons8-email-48.png)](udanielarthur@gmail.com) |
 
 </div>
