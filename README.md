@@ -21,30 +21,24 @@ Este projeto tem intuito de compor portifólio de Administração de Banco de Da
 ## Tabelas
 </div>
 
-- `tb_ator`  
-- `tb_cartao_credito`
-- `tb_catalogo`
-- `tb_catalogo_ator`
-- `tb_catalogo_categoria`
-- `tb_catalogo_idioma`
-- `tb_categoria`
-- `tb_classificacao`
-- `tb_cliente`
--  `tb_endereco`
-- `tb_episodio`
-- `tb_filme`
-- `tb_funcionario`
-- `tb_idioma`
-- `tb_pagamento`
-- `tb_pais`
-- `tb_pais_catalogo`
-- `tb_perfil`
-- `tb_plano`
-- `tb_serie`
-- `tb_temporada`
-- `tb_tipo_pagamento`
-- `tb_usuario`
-- 
+- `tb_ator` Tabela sobre atores
+- `tb_cartao_credito` Tabela sobre catões de créditos
+- `tb_catalogo` Tabela sobre o catálogo
+- `tb_categoria` Tabela sobre categoria
+- `tb_classificacao` Tabela sobre classificação
+- `tb_cliente` Tabela sobre clientes
+- `tb_endereco` Tabela sobre endereços
+- `tb_episodio` Tabela sobre episódios
+- `tb_filme` Tabela sobre filmes
+- `tb_funcionario` Tabela sobre funcionários
+- `tb_idioma` Tabela sobre idioma
+- `tb_pagamento` Tabela sobre pagamento
+- `tb_pais` Tabela sobre país
+- `tb_perfil` Tabela sobre o perfil
+- `tb_plano` Tabela sobre o plano de assinatura
+- `tb_serie` Tabela sobre a série
+- `tb_temporada` Tabela sobre a temporada
+- `tb_usuario` Tabela sobre o usuário
 
 <div align=center>
 
