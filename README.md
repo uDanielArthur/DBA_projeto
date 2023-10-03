@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-daniel_arthur-red.svg)](https://www.linkedin.com/in/udanielarthur/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/uDanielArthur)
+
 # Projeto Banco de Dados para um Serviço de Streaming
 
 Este projeto tem intuito de compor portifólio de Administração de Banco de Dados sob o caso hipotético que demandou a construção de uma database para plataformas de streaming.
